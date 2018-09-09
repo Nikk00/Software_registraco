@@ -173,8 +173,8 @@ public class Ingresar extends javax.swing.JFrame {
                 new Ingresar().setVisible(true);
             }
         });
-      //ahya te hice cagar
-      //ahya te hice cagar
+      //sha ta manito
+
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
