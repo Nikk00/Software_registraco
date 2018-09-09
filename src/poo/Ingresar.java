@@ -173,7 +173,7 @@ public class Ingresar extends javax.swing.JFrame {
                 new Ingresar().setVisible(true);
             }
         });
-      //sha ta manito
+      //sha ta manitooo
 
     }
 
