@@ -174,6 +174,7 @@ public class Ingresar extends javax.swing.JFrame {
             }
         });
       //ahya te hice cagar
+      //ahya te hice cagar
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
